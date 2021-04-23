@@ -4,7 +4,7 @@
 
 import tensorflow as tf
 # from tensorflow import keras
-from tensorflow.keras.layers import Input, Dense, SimpleRNN, Flatten, LSTM, Dropout, LayerNormalization
+from tensorflow.keras.layers import Input, Dense, SimpleRNN
 from tensorflow.keras.models import Model
 from tensorflow.keras.optimizers import Adam, SGD
 
