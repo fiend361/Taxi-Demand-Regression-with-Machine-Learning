@@ -1,0 +1,9 @@
+Markdown
+MarkupSafe
+pandas
+matplotlib
+numpy
+scikit-learn
+scipy
+tensorflow
+tensorflow-tensorboard
