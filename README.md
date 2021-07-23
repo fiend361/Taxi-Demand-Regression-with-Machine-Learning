@@ -14,6 +14,6 @@ times each day in New York City.
 
 The dataset is broken down into 30 clusters where each cluster holds records of taxi demand in a different part of NYC.
 
-__Note:__ the data is not yet cleaned and prepared for training a Machine Learning model except for `cluster04.csv` which I extracted out of the `./NYCdata2015` directory
+__Note:__ this repository is a work in progress. The data is not yet cleaned and prepared for training a Machine Learning model except for `cluster04.csv` which I extracted out of the `./NYCdata2015` directory
 and separated into data: `cluster04.csv` and targets: `cluster04targets.csv`
 
